@@ -15,8 +15,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Frank666&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📈 近期活动
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Z-Frank666&theme=dracula)
+## ✒️:座右铭
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=人生的价值，并不是用时间，而是用深度去衡量的。)
 
 ## 📚 我的项目
 | 项目名称 | 技术栈 | 简介 |
