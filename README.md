@@ -36,7 +36,7 @@ A snapshot of my coding habits (and procrastination battles 👀):
 
 ## 💡 Motto  
 > *“The value of life is not measured by time, but by depth.”*  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The value of life is not measured by time, but by depth)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+value+of+life+is+not+measured+by+time+but+by+depth)
 
 
 ## 📚 Featured Projects  
