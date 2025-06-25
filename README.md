@@ -1,28 +1,60 @@
-# Hi there 👋
+# Hello, I'm Frank 👋  
 
-[![GitHub Follow](https://img.shields.io/github/followers/Z-Frank666?label=Follow&style=social)](https://github.com/Z-Frank666)
+Backend Developer & Data Analyst | Studying at Wuhan University of Technology  
 
-## 🌟 关于我
-武理计院学生，专注后端开发与数据分析，目前在学习Java和Python技术栈～
+[![Follow](https://img.shields.io/github/followers/Z-Frank666?label=Follow&style=social)](https://github.com/Z-Frank666)  
+[![Email](https://img.shields.io/badge/Email-445232231%40qq.com-blue)](mailto:445232231@qq.com)  
 
-## 🚀 近期动态
-- 🌱 正在学习Spring Boot与数据可视化技术
-- 💬 欢迎讨论Python数据分析、Java后端开发相关问题
-- 📫 联系我：通过GitHub Issues或邮件(445232231@qq.com)
 
-## 📊 技术统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-Frank666&show_icons=true&theme=transparent&hide_border=true)
+## 🌟 About Me  
+A computer science student at Wuhan University of Technology, focusing on **backend development** and **data analysis**. Actively exploring the Java & Python tech stacks, and keen on turning classroom knowledge into practical projects.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Frank666&layout=compact&theme=tokyonight&hide_border=true)
 
-## ✒️:座右铭
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=人生的价值，并不是用时间，而是用深度去衡量的。)
+## 🚀 Current Focus  
+- 🌱 Diving into **Spring Boot** to build robust backends, and learning data visualization tools (like ECharts) to make insights tangible  
+- 💬 Open to discussions on Python data analysis workflows, Java backend architecture, or project-based learning experiences  
+- 📫 Contact me via [GitHub Issues](https://github.com/Z-Frank666/Revalue/issues) or email — happy to chat about tech ideas!  
 
-## 📚 我的项目
-| 项目名称 | 技术栈 | 简介 |
-|---------|--------|------|
-| 武理python数据分析与可视化大作业 | Python/Pandas/Matplotlib | 课程大作业，包含数据清洗与可视化案例 |
-| 武理计院大一下实验课程项目 | C语言 | 基础算法与数据结构实现 |
 
-## 😄 常用表情
-😊 友好交流 🔥 技术热情 💡 灵感时刻
+## 🛠️ Tech Stack Highlights  
+These are the tools I’ve been working with (and loving!):  
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)  
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)  
+
+
+## 📊 GitHub Stats  
+A snapshot of my coding habits (and procrastination battles 👀):  
+
+![Frank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-Frank666&show_icons=true&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-Frank666&layout=compact&theme=tokyonight&hide_border=true)  
+
+
+## 💡 Motto  
+> *“The value of life is not measured by time, but by depth.”*  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+value+of+life+is+not+measured+by+time%2C+but+by+depth.&font=Fira+Code&center=true&width=440&height=50&color=007396&vCenter=true&loop=true)  
+
+
+## 📚 Featured Projects  
+Here are some hands-on projects — feel free to star or fork if they resonate!  
+
+| Repository Name               | Tech Stack                | What It’s About                                                                 |  
+|-------------------------------|---------------------------|---------------------------------------------------------------------------------|  
+| **WHUT-Data-analysis-and-visualization** | Python, Pandas, Matplotlib | Course project: Cleaned & visualized real-world datasets (e.g., campus data) — great for learning data workflows! |  
+| **WHUT-Billing-Management**   | C                         | Freshman-year lab: Implemented basic billing logic (data structures + file ops) — pure C fun! |  
+| **Z-Frank666.github.io**      | HTML, CSS                 | My personal static site playground — still WIP, but learning frontend basics here! |  
+| **Revalue**                   | Vue                       | Mobile app project: Built a “second-hand marketplace” for campus — practiced Vue + backend integration! |  
+| **FTP_System**                | Java                      | Multithreaded FTP server design — explored Java concurrency and network programming. |  
+
+
+## 😄 Let’s Connect!  
+- 👨‍💻 Explore all my work: [GitHub Repos](https://github.com/Z-Frank666?tab=repositories)  
+- 📧 Shoot me an email: [445232231@qq.com](mailto:445232231@qq.com)  
+- 💬 Drop a comment on my repos — I reply fast!  
+
+
+> Always learning, always building. Let’s grow together in tech! 🌱
