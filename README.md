@@ -1,6 +1,5 @@
 # Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Z-Frank666/count.svg)  
 [![GitHub Follow](https://img.shields.io/github/followers/Z-Frank666?label=Follow&style=social)](https://github.com/Z-Frank666)
 
 ## 🌟 关于我
@@ -9,7 +8,7 @@
 ## 🚀 近期动态
 - 🌱 正在学习Spring Boot与数据可视化技术
 - 💬 欢迎讨论Python数据分析、Java后端开发相关问题
-- 📫 联系我：通过GitHub Issues或邮件（可补充你的邮箱）
+- 📫 联系我：通过GitHub Issues或邮件(445232231@qq.com)
 
 ## 📊 技术统计
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z-Frank666&show_icons=true&theme=transparent&hide_border=true)
